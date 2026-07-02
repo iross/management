@@ -91,13 +91,31 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- To be added
+-   2026-07-08 - Cancelled
+-   2026-07-15 - Cancelled (OSG School)
+-   2026-07-22 - Town Hall
+-   2026-07-29 - Network Monitoring (Shawn McKee)
+-   2026-08-05 - Campus Services (Tim Cartwright)
+-   2026-08-12 - Pelican (Brian Bockelman)
+-   2026-08-19 - Town Hall
+-   2026-08-26 - Production Support (Ken Herner)
+-   2026-09-02 - Research Facilitation (Christina Koch)
+-   2026-09-09 - Release (Tim Theisen)
+-   2026-09-16 - Town Hall
+-   2026-09-23 - HTCSS (Todd Tannenbaum)
+-   2026-09-30 - Operations (Jeff Dost)
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2026-07-01 - Machine Learning (Ian Ross)
+-   2026-06-24 - Software (Brian Lin)
+
+-   2026-06-17 - Town Hall (HTC26)
+-   2026-06-10 - Cancelled (HTC26)
+-   2026-06-03 - Cancelled (HTC26 Prep)
 -   2026-05-27 - Operations (Jeff Dost)
 -   2026-05-20 - Pelican (Brian Bockelman)
 -   2026-05-13 - HTCSS (Todd Tannenbaum)
